@@ -25,7 +25,7 @@ export default function DashBoard() {
           </div>
           <div className="dashboard-top-content">
             <li className="dashboard-top-content-avatar">
-              <span>Phu</span>
+              <span>bao</span>
             </li>
             <li className="dashboard-top-content-bell">
               <BellOutlined></BellOutlined>
